@@ -6,7 +6,7 @@ MITgcm input and pickup files for 3 degree simulations with variable KGM paramet
 
 • Ferreira, Marshall and Heimbach, 2005, JPO (FMH2005), using a vertically varying relationship between N2 and KGM,
 
-• Hofmann and Morales Maqueda, 2011, GRL (HMM2011), using the depth-varying Richardson number to var KGM.
+• Hofmann and Morales Maqueda, 2011, GRL (HMM2011), using the depth-varying Richardson number to vary KGM.
 
 The code for these parameterizations can be found in my "mitgcm_mods" repo under "gm_variable_k" https://github.com/seamanticscience/mitgcm_mods - probably best to use the "Checkpoint66j" version...
 
