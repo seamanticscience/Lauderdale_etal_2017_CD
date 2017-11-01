@@ -9,4 +9,5 @@ The code for these parameterizations can be found in my "mitgcm_mods" repo under
 
 Each parameterization has 7 experiments associated with it: a control and 6 Southern Hemisphere Westerly wind (SHW) perturbations (50% increased, 50% decreased, 10° north-shift, 10° south-shift, 3° north-shift and slight decrease, 3° south-shift and slight increase) each run for 10,000 model years. The control spin up covers iterations 0014400000 to 0021600000 (20 kyr to 30 kyr) and the perturbations cover iterations 0021600000 to 0028800000 (30 kyr to 40 kyr).
 
-http://dx.doi.org/10.1007/s00382-016-3163-y
+If you use these code/config/pickup files, please cite:
+Lauderdale, Williams, Munday and Marshall, 2017, The impact of Southern Ocean residual upwelling on atmospheric CO2 on centennial and millennial timescales, Climate Dynamics, 48, 1611–1631, http://dx.doi.org/10.1007/s00382-016-3163-y
