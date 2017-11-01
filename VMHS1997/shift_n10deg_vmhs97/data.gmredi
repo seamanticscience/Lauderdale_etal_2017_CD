@@ -9,7 +9,7 @@
 
  &GM_PARM01 
   GM_useHMM2011=.FALSE.,
-  GM_useFM2006N2=.FALSE.,
+  GM_useFMH2005=.FALSE.,
 # Options for GM_Visbeck_alpha:
 #          0., disables Visbeck calculation
 #          0.15, default from VMHS97
