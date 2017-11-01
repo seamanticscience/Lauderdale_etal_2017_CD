@@ -1,0 +1,34 @@
+# from MOM
+# GM_background_K: 	isopycnal diffusion coefficient
+# GM_maxSlope:		max slope of isopycnals
+# GM_Scrit:		transition for scaling diffusion coefficient
+# GM_Sd:		half width scaling for diffusion coefficient
+# real background diff:	horizontal diffusion
+
+# ifdef GM_VISBECK_VARIABLE_K, include following in GM_PARM01
+
+ &GM_PARM01 
+  GM_useHMM2011=.TRUE.,
+  GM_useFM2006N2=.FALSE.,
+# Options for GM_Visbeck_alpha:
+#          0., disables Visbeck calculation
+#          0.15, default from VMHS97
+#          0.13, adopted by BDS99, EJD09 and HMM11
+  GM_Visbeck_alpha   = 1.3e-2,
+# Options for GM_Visbeck_length:
+# VMHS97 suggest MAX(Rossby Radius, grid size, width of baroclinic zone)
+#          2.e+5, or 200km is the default (LR at 45degrees)
+  GM_Visbeck_length  = 2.e+5,
+  GM_Visbeck_minDepth= 100.,
+  GM_Visbeck_depth   = 2.e+3,
+  GM_Visbeck_maxVal_K= 4.5e+3,
+  GM_Visbeck_minVal_K= 300.,
+  GM_background_K    = 1.e+3,
+  GM_taper_scheme    = 'gkw91',
+  GM_maxSlope        = 1.e-2,
+  GM_Kmin_horiz      = 100.,
+  GM_Scrit           = 4.e-3,
+  GM_Sd              = 1.e-3,
+ &
+
+

@@ -1,0 +1,14 @@
+ simulation = { 'North-shifted and decreased SHW with HMM2011 variable GMK' };
+ nDims = [   2 ];
+ dimList = [
+   128,    1,  128,
+    64,    1,   64
+ ];
+ dataprec = [ 'float64' ];
+ nrecords = [     1 ];
+ timeStepNumber = [   28800000 ];
+ timeInterval = [  1.244160000000E+12 ];
+ nFlds = [    1 ];
+ fldList = {
+ 'DIC_pH2d'
+ };
