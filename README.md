@@ -16,3 +16,5 @@ If you use these code/config/pickup files, please cite:
 Lauderdale, Williams, Munday and Marshall, 2017, The impact of Southern Ocean residual upwelling on atmospheric CO2 on centennial and millennial timescales, Climate Dynamics, 48, 1611–1631, https://doi.org/10.1007/s00382-016-3163-y.
 
 Please let me know if you find any errors, or have trouble compiling!
+
+<a href="https://zenodo.org/badge/latestdoi/109144710"><img src="https://zenodo.org/badge/109144710.svg" alt="DOI"></a>
