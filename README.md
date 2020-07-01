@@ -1,4 +1,9 @@
 # Lauderdale_etal_2017_CD
+<a href="https://zenodo.org/badge/latestdoi/109144710"><img src="https://zenodo.org/badge/109144710.svg" alt="DOI"></a>
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/seamanticscience/Lauderdale_etal_2017_CD?color=1b3370)
+![GitHub last commit](https://img.shields.io/github/last-commit/seamanticscience/Lauderdale_etal_2017_CD?color=f44323)
+![GitHub License](https://img.shields.io/github/license/seamanticscience/Lauderdale_etal_2017_CD?color=ffa500)
+<a href="https://doi.org/10.1007/s00382-016-3163-y"><img src="http://img.shields.io/badge/paper%20link-doi:10.1007%2Fs00382--016--3163--y-lightgrey.svg" alt="Link to paper at https://doi.org/10.1007/s00382-016-3163-y"></a>
 
 MITgcm input and pickup files for 3 degree simulations with variable KGM parameterizations according to:
 
@@ -16,5 +21,3 @@ If you use these code/config/pickup files, please cite:
 Lauderdale, Williams, Munday and Marshall, 2017, The impact of Southern Ocean residual upwelling on atmospheric CO2 on centennial and millennial timescales, Climate Dynamics, 48, 1611–1631, https://doi.org/10.1007/s00382-016-3163-y.
 
 Please let me know if you find any errors, or have trouble compiling!
-
-<a href="https://zenodo.org/badge/latestdoi/109144710"><img src="https://zenodo.org/badge/109144710.svg" alt="DOI"></a>
